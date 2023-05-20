@@ -1,0 +1,11 @@
+E:\PROGRAMMS\C# programmes\Football\Football\bin\Debug\netcoreapp2.1\Football.deps.json
+E:\PROGRAMMS\C# programmes\Football\Football\bin\Debug\netcoreapp2.1\Football.runtimeconfig.json
+E:\PROGRAMMS\C# programmes\Football\Football\bin\Debug\netcoreapp2.1\Football.runtimeconfig.dev.json
+E:\PROGRAMMS\C# programmes\Football\Football\bin\Debug\netcoreapp2.1\Football.dll
+E:\PROGRAMMS\C# programmes\Football\Football\bin\Debug\netcoreapp2.1\Football.pdb
+E:\PROGRAMMS\C# programmes\Football\Football\obj\Debug\netcoreapp2.1\Football.csprojAssemblyReference.cache
+E:\PROGRAMMS\C# programmes\Football\Football\obj\Debug\netcoreapp2.1\Football.csproj.CoreCompileInputs.cache
+E:\PROGRAMMS\C# programmes\Football\Football\obj\Debug\netcoreapp2.1\Football.AssemblyInfoInputs.cache
+E:\PROGRAMMS\C# programmes\Football\Football\obj\Debug\netcoreapp2.1\Football.AssemblyInfo.cs
+E:\PROGRAMMS\C# programmes\Football\Football\obj\Debug\netcoreapp2.1\Football.dll
+E:\PROGRAMMS\C# programmes\Football\Football\obj\Debug\netcoreapp2.1\Football.pdb
